@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9804f819-ab76-48f5-a3ab-6bbc7147dc51" name="Default Changelist" comment="update" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2aRiA1iB9zlmxYrw3rmtwVaahga" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/cv/table_structure_recognition" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\project\pycharm_workspace\paper_read_note\cv\table_structure_recognition\An End-to-End Multi-Task Learning Model for Image-based Table Recognition(VISIGRAPP2023)" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\project\pycharm_workspace\paper_read_note\cv\table_structure_recognition" />
+      <recent name="D:\project\pycharm_workspace\paper_read_note" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9804f819-ab76-48f5-a3ab-6bbc7147dc51" name="Default Changelist" comment="" />
+      <created>1704287644649</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704287644649</updated>
+      <workItem from="1704287646356" duration="2615000" />
+      <workItem from="1704290279667" duration="164000" />
+      <workItem from="1704368825579" duration="388000" />
+    </task>
+    <task id="LOCAL-00001" summary="update README.md">
+      <created>1704289507633</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1704289507633</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update README.md">
+      <created>1704289653043</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1704289653043</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update README.md">
+      <created>1704289811456</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1704289811456</updated>
+    </task>
+    <task id="LOCAL-00004" summary="update README.md">
+      <created>1704289873457</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1704289873457</updated>
+    </task>
+    <task id="LOCAL-00005" summary="update">
+      <created>1704289969872</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1704289969872</updated>
+    </task>
+    <task id="LOCAL-00006" summary="update">
+      <created>1704289981222</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1704289981222</updated>
+    </task>
+    <task id="LOCAL-00007" summary="update">
+      <created>1704290150909</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1704290150909</updated>
+    </task>
+    <task id="LOCAL-00008" summary="update">
+      <created>1704368949713</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1704368949713</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="update README.md" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="618" y="305" key="Github.ShareDialog" timestamp="1704369100008">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="618" y="305" key="Github.ShareDialog/0.0.1536.816@0.0.1536.816" timestamp="1704369100008" />
+    <state x="321" y="112" key="Github.UntrackedFilesDialog" timestamp="1704289341519">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="321" y="112" key="Github.UntrackedFilesDialog/0.0.1536.816@0.0.1536.816" timestamp="1704289341519" />
+    <state x="270" y="52" key="SettingsEditor" timestamp="1704369238978">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="270" y="52" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1704369238978" />
+    <state x="361" y="141" key="Vcs.Push.Dialog.v2" timestamp="1704368959143">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="361" y="141" key="Vcs.Push.Dialog.v2/0.0.1536.816@0.0.1536.816" timestamp="1704368959143" />
+  </component>
+</project>

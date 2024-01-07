@@ -8,6 +8,7 @@
 
 (2). ***Divide Rows and Conquer Cells Towards Structure Recognition for Large Tables(IJCAI-23)*** [笔记地址](cv/table_structure_recognition/2/README.md)
 
+(3). ***TRACE Table Reconstruction Aligned to Corner and Edges(ICDAR 2023)*** [笔记地址](cv/table_structure_recognition/3/README.md)
 
 ### 二.nlp
 

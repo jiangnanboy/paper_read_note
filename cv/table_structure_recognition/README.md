@@ -5,3 +5,5 @@
 
 (3). ***TRACE Table Reconstruction Aligned to Corner and Edges(ICDAR 2023)*** [笔记地址](./3/README.md)
 
+(4). ***An End-to_End Local Attention Based Model for Table Recognition(ICDAR2023)*** [笔记地址](./4/README.md)
+

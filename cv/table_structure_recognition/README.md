@@ -7,3 +7,5 @@
 
 (4). ***An End-to_End Local Attention Based Model for Table Recognition(ICDAR2023)*** [笔记地址](./4/README.md)
 
+(5). ***High-Performance Transformers for Table Structure Recognition Need Early Convolutions(NeurIPS workshop 2023)*** [笔记地址](./5/README.md)
+

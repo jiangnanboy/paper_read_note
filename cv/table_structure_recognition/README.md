@@ -9,3 +9,8 @@
 
 (5). ***High-Performance Transformers for Table Structure Recognition Need Early Convolutions(NeurIPS workshop 2023)*** [笔记地址](./5/README.md)
 
+(6). ***Rethinking Image-based Table Recognition Using Weakly Supervised Methods(ICPRAM 2023)*** [笔记地址](./6/README.md)
+
+(7). ***PP-StructureV2 A Stronger Document Analysis System(arxiv 2022)*** [笔记地址](./7/README.md)
+
+(8). ***PINGAN-VCGROUP’S SOLUTION FOR ICDAR 2021 COMPETITION ON SCIENTIFIC LITERATURE PARSING TASK B TABLE RECOGNITION TO HTML(arxiv 2021)*** [笔记地址](./8/README.md)

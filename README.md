@@ -20,6 +20,8 @@
 
 (8). ***PINGAN-VCGROUP’S SOLUTION FOR ICDAR 2021 COMPETITION ON SCIENTIFIC LITERATURE PARSING TASK B TABLE RECOGNITION TO HTML(arxiv 2021)*** [笔记地址](cv/table_structure_recognition/8/README.md)
 
+(9). ***TableFormer Table Structure Understanding with Transformers(cvpr2022)*** [笔记地址](cv/table_structure_recognition/9/README.md)
+
 ### 二.nlp
 
 ### 三.recommendation system

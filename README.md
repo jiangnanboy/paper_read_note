@@ -22,6 +22,8 @@
 
 (9). ***TableFormer Table Structure Understanding with Transformers(cvpr2022)*** [笔记地址](cv/table_structure_recognition/9/README.md)
 
+(10). ***Improving Table Structure Recognition with Visual-Alignment Sequential Coordinate Modeling(cvpr2023)*** [笔记地址](cv/table_structure_recognition/10/README.md)
+
 ### 二.nlp
 
 ### 三.recommendation system

@@ -19,3 +19,4 @@
 
 (10). ***Improving Table Structure Recognition with Visual-Alignment Sequential Coordinate Modeling(cvpr2023)*** [笔记地址](./10/README.md)
 
+(11). ***Table Structure Extraction with Bi-directional Gated Recurrent Unit Networks(icdar2019)*** [笔记地址](./11/README.md)

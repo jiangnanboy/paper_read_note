@@ -26,6 +26,10 @@
 
 (11). ***Table Structure Extraction with Bi-directional Gated Recurrent Unit Networks(icdar2019)*** [笔记地址](cv/table_structure_recognition/11/README.md)
 
+(12). ***Rethinking Semantic Segmentation for Table Structure Recognition in Documents(icdar2019)*** [笔记地址](cv/table_structure_recognition/12/README.md)
+
+(13). ***LGPMA Complicated Table Structure Recognition with Local and Global Pyramid Mask Alignment(icdar2021)*** [笔记地址](cv/table_structure_recognition/13/README.md)
+
 ### 二.nlp
 
 ### 三.recommendation system

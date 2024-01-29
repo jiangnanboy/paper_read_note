@@ -35,7 +35,9 @@
 ![](./3.png) 
 
 &emsp;&emsp;目的是得到一条由Confidence和Similarity两个坐标共同控制的曲线，取代原先单一的概率阈值进行候选字的选择。
+
 　消融实验的流程如下：
+
 &emsp;&emsp;(1). 通过BERT语言模型计算得到句子中每个字的TOPN候选字。
 
 &emsp;&emsp;(2). 分别计算rank=0..TOPN-1的候选字的Confidence和与原句中字的Similarity。

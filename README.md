@@ -38,6 +38,10 @@
 
 (3). ***Spelling Error Correction with Soft-Masked BERT(ACL2020)*** [笔记地址](nlp/chinese_text_correction/3/README.md)
 
+(4). ***SpellGCN Incorporating Phonological and Visual Similarities into Language Models for Chinese Spelling Check(ACL2020)*** [笔记地址](nlp/chinese_text_correction/4/README.md)
+
+(5). ***Combining ResNet and Transformer for Chinese Grammatical Error Diagnosis(ACL2020)*** [笔记地址](nlp/chinese_text_correction/5/README.md)
+
 ### 三.recommendation system
 
 ### 四.search rank

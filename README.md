@@ -42,6 +42,14 @@
 
 (5). ***Combining ResNet and Transformer for Chinese Grammatical Error Diagnosis(ACL2020)*** [笔记地址](nlp/chinese_text_correction/5/README.md)
 
+(6). ***Correcting Chinese Spelling Errors with Phonetic Pre-training(ACL2021)*** [笔记地址](nlp/chinese_text_correction/6/README.md)
+
+(7). ***Dynamic Connected Networks for Chinese Spelling Check(ACL2021)*** [笔记地址](nlp/chinese_text_correction/7/README.md)
+
+(8). ***Exploration and Exploitation Two Ways to Improve Chinese Spelling Correction Models(ACL2021)*** [笔记地址](nlp/chinese_text_correction/8/README.md)
+
+(9). ***SpellBERT A Lightweight Pretrained Model for Chinese Spelling Check(EMNLP2021)*** [笔记地址](nlp/chinese_text_correction/9/README.md)
+
 ### 三.recommendation system
 
 ### 四.search rank

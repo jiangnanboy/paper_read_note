@@ -17,6 +17,12 @@
 
 (9). ***SpellBERT A Lightweight Pretrained Model for Chinese Spelling Check(EMNLP2021)*** [笔记地址](./9/README.md)
 
+(10). ***Global Attention Decoder for Chinese Spelling Error Correction(ACL2021)*** [笔记地址](./10/README.md)
+
+(11). ***PHMOSpell Phonological and Morphological Knowledge Guided Chinese Spelling Check(ACL2021)*** [笔记地址](./11/README.md)
+
+(12). ***PLOME Pre-training with Misspelled Knowledge for Chinese Spelling Correction(ACL2021)*** [笔记地址](./12/README.md)
+
 
 
 

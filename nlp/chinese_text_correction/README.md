@@ -23,6 +23,9 @@
 
 (12). ***PLOME Pre-training with Misspelled Knowledge for Chinese Spelling Correction(ACL2021)*** [笔记地址](./12/README.md)
 
+(13). ***Tail-to-Tail Non-Autoregressive Sequence Prediction for Chinese Grammatical Error Correction(ACL2021)*** [笔记地址](./13/README.md)
+
+(14). ***Read, Listen, and See Leveraging Multimodal Information Helps Chinese Spell Checking(ACL2021)*** [笔记地址](./14/README.md)
 
 
 

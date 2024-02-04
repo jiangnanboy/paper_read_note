@@ -27,6 +27,9 @@
 
 (14). ***Read, Listen, and See Leveraging Multimodal Information Helps Chinese Spell Checking(ACL2021)*** [笔记地址](./14/README.md)
 
+(15). ***An Error-Guided Correction Model for Chinese Spelling Error Correction(EMNLP2022)*** [笔记地址](./15/README.md)
+
+(16). ***CRASPell A Contextual Typo Robust Approach to Improve Chinese Spelling Correction(ACL2022)*** [笔记地址](./16/README.md)
 
 
 

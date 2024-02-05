@@ -64,6 +64,10 @@
 
 (16). ***CRASPell A Contextual Typo Robust Approach to Improve Chinese Spelling Correction(ACL2022)*** [笔记地址](nlp/chinese_text_correction/16/README.md)
 
+(17). ***MDCSpell A Multi-task Detector-Corrector Framework for Chinese Spelling Correction(ACL2022)*** [笔记地址](nlp/chinese_text_correction/17/README.md)
+
+(18). ***Chinese Spelling Correction as Rephrasing Language Model(AAAI2024)*** [笔记地址](nlp/chinese_text_correction/18/README.md)
+
 ### 三.recommendation system
 
 ### 四.search rank

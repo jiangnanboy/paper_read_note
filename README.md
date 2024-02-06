@@ -68,6 +68,10 @@
 
 (18). ***Chinese Spelling Correction as Rephrasing Language Model(AAAI2024)*** [笔记地址](nlp/chinese_text_correction/18/README.md)
 
+(19). ***Investigating Glyph-Phonetic Information for Chinese Spell Checking What Works and What's Next(ACL2023)*** [笔记地址](nlp/chinese_text_correction/19/README.md)
+
+(20). ***Are Pre-trained Language Models Useful for Model Ensemble in Chinese Grammatical Error Correction(ACL2023)*** [笔记地址](nlp/chinese_text_correction/20/README.md)
+
 ### 三.recommendation system
 
 ### 四.search rank

@@ -72,6 +72,8 @@
 
 (20). ***Are Pre-trained Language Models Useful for Model Ensemble in Chinese Grammatical Error Correction(ACL2023)*** [笔记地址](nlp/chinese_text_correction/20/README.md)
 
+(21). ***GrammarGPT Exploring Open-Source LLMs for Native Chinese Grammatical Error Correction with Supervised Fine-Tuning(arxiv2023)*** [笔记地址](nlp/chinese_text_correction/21/README.md)
+
 ### 三.recommendation system
 
 ### 四.search rank

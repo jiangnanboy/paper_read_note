@@ -24,3 +24,5 @@
 (12). ***Rethinking Semantic Segmentation for Table Structure Recognition in Documents(icdar2019)*** [笔记地址](./12/README.md)
 
 (13). ***LGPMA Complicated Table Structure Recognition with Local and Global Pyramid Mask Alignment(icdar2021)*** [笔记地址](./13/README.md)
+
+(14). ***SEMv2 Table Separation Line Detection Based on Instance Segmentation(Pattern Recognition 2024)*** [笔记地址](./14/README.md)

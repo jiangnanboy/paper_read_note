@@ -76,6 +76,9 @@
 
 (21). ***GrammarGPT Exploring Open-Source LLMs for Native Chinese Grammatical Error Correction with Supervised Fine-Tuning(arxiv2023)*** [笔记地址](nlp/chinese_text_correction/21/README.md)
 
+#### 2.llm
+(1). ***Corrective Retrieval Augmented Generation(arxiv2024)*** [笔记地址](nlp/llm/1/README.md)
+
 ### 三.recommendation system
 
 ### 四.search rank

@@ -26,3 +26,5 @@
 (13). ***LGPMA Complicated Table Structure Recognition with Local and Global Pyramid Mask Alignment(icdar2021)*** [笔记地址](./13/README.md)
 
 (14). ***SEMv2 Table Separation Line Detection Based on Instance Segmentation(Pattern Recognition 2024)*** [笔记地址](./14/README.md)
+
+(15). ***UniTable: Towards a Unified Framework for Table Structure Recognition via Self-Supervised Pretraining(arxiv2024)*** [笔记地址](./15/README.md)

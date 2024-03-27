@@ -32,6 +32,7 @@
 
 (14). ***SEMv2 Table Separation Line Detection Based on Instance Segmentation(Pattern Recognition 2024)*** [笔记地址](cv/table_structure_recognition/14/README.md)
 
+(15). ***UniTable: Towards a Unified Framework for Table Structure Recognition via Self-Supervised Pretraining(arxiv2024)*** [笔记地址](cv/table_structure_recognition/15/README.md)
 ### 二.nlp
 #### 1.chinese text correction
 (1). ***FASPell A Fast, Adaptable, Simple, Powerful Chinese Spell Checker Based On DAE-Decoder Paradigm(EMNLP2019)*** [笔记地址](nlp/chinese_text_correction/1/README.md)
